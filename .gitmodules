@@ -1,0 +1,3 @@
+[submodule "practical_data_engineering"]
+	path = practical_data_engineering
+	url = https://github.com/eldermillenial85/practical_data_engineering.git
